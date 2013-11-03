@@ -30,7 +30,7 @@ public function fixRect(rect:Rectangle):Rectangle
 }
 ```
 
-Here's a fairly generic code for future reference (doesn't even use `top` or `bottom` properties) to 
+Here's a fairly generic code for future reference (doesn't even use `right` and `bottom` properties) to 
 calc the overlapping region and optionally account for negative rect dimensions:
 
 ```as3
