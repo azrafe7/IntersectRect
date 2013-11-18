@@ -1,7 +1,7 @@
 IntersectRect
 =============
 
-Find rectangles overlapping area (AS3 vs custom - proof of concept in FlashPunk).
+Find rectangles overlapping area (AS3 vs custom - proof of concept in FlashPunk). [(swf)](https://dl.dropboxusercontent.com/u/32864004/dev/FPDemo/IntersectRect.swf)
 
 
 Just found out - _through bad times_ - that the rects involved in `Rectangle.intersection()` (and `intersects()`) calls
